@@ -1,0 +1,6 @@
+asyncio==3.4.3
+bleak==0.10.0
+pyobjc-core==7.1
+pyobjc-framework-Cocoa==7.1
+pyobjc-framework-CoreBluetooth==7.1
+pyobjc-framework-libdispatch==7.1
